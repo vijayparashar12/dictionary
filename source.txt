@@ -1,0 +1,8 @@
+ball
+bat
+bang
+ant
+bus
+beautiful
+apple
+mango
